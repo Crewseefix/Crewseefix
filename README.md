@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crewseefix
 - 👀 I’m interested in full-stack web development and all things web3.
-- 🌱 I’m currently learning react.
+- 🌱 I’m currently learning django.
 - 💞️ I’m looking to collaborate on exciting web3 projects.
 - 📫 How to reach me Email: tostirma@gmail.com, Twitter: @savantbio.
 
